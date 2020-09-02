@@ -1,0 +1,19 @@
+{% from 'field-macro.html' import displayField %}
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>PEDIDO</h1>
+  {% from "includes/_formhelpers.html" import render_field %}
+  <form action="{{ url_for('pedido') }}", method="POST">
+
+    {{ displayField(form.nombre_cliente, 'Nombre del local', autocomplete="on", autofocus=true)}}
+    {{ displayField(form.cantidad, 'Cantidad', autocomplete="on", autofocus=true)}}
+    {{ displayField(form.tipo, 'Escoger hielos pequenos(1) o grandes(2)', autocomplete="off", autofocus=true) }}
+    {{ displayField(form.fecha_entrega, 'Fecha de entrega ') }}
+            <div class="form-group">
+                <input type="submit" value="Hacer Pedido" class="btn btn-warning">
+            </div>
+            {{ form.csrf_token }}
+  </form>
+
+{% endblock %}

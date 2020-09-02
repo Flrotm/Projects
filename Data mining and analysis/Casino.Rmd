@@ -1,0 +1,723 @@
+---
+title: "Tendencias en los clientes de casinos en Lima   "
+
+author: "Francesco Uccelli Meneses - 201810253, Alejandro Buitrago Zegarra - 201820079, Carlos Mazuelos Selem - 201810195, Santiago Madariaga Collado - 201810677"
+date: "Barranco, 2019"
+output:
+  html_document:
+    df_print: paged
+---
+
+---
+
+UNIVERSIDAD DE INGENIERÍA Y TECNOLOGÍA 
+
+
+Profesor:
+Renom Andara, Jose Miguel
+
+Curso:
+Estadística y Probabilidades
+ 
+
+
+## Introducción
+
+Las estadísticas y probabilidades se pueden encontrar en casi todos los lugares y situaciones, sin embargo existen lugares donde estas te pueden ayudar a ganar mucho dinero o hacer que lo pierdas todo, los casinos. Los casinos, sin lugar a duda, son uno de lugares más tentativos en los que se puede gastar muchísimo dinero, a pesar de todo los clientes van siempre con esperanza de poder ganar. El poker, la ruleta, los dados, las máquinas tragamonedas y muchos juegos más del casino son en los cuales las personas pierden más dinero. Pero, ¿las personas realmente saben cuales son sus probabilidades de salir victoriosos? Debido a estas cuestiones decidimos realizar un trabajo de investigación de campo y análisis de los datos recolectados de este mismo. A continuación se podrá ver a más detalle los objetivos planteados en esta investigación, datos sobre la población objetivo y la muestra a tomar. Además se podrá ver específicamente el método de recolección de datos y las preguntas que se les hará a la muestra seleccionada.
+
+## Datos de la investigación a realizar
+
+Los principales objetivos de esta investigación son dos. En primer lugar, conocer más sobre los perfiles de los clientes de los casinos y cómo son sus resultados normalmente. En segundo lugar, ver si realmente los clientes del casino saben cuales son sus probabilidades de salir victoriosos y con qué monto de dinero se conforman. 
+
+Para la realización de este estudio nos interesan los jugadores de los casinos, ya sea dentro de este o fuera, como en la universidad o calle. Debido a esto, el tipo de muestreo en esta investigación será de tipo conglomerado. De tal forma que se calcula que la unidad muestral sea de aproximadamente 15 personas por casino, siendo el número de casinos que se visitan, la unidad muestras será de 60 personas, esto irá de la mano con las personas que podamos entrevistar fuera del casino para llegar a un total de 100 muestras.
+
+La recolección de data para la investigación será realizada por nosotros mismos. Durante los tres próximos fines de semana iremos  a cuatro casinos distintos y entrevistamos a las personas que se encuentran jugando en el casino. Nosotros también nos acercaremos a personas aleatorias para que nos llenen la encuesta. Para la recolección de datos, hemos propuesto las siguientes preguntas, las cuales creemos que nos pueden ayudar a llegar a un análisis de la situación. 
+
+
+La planificación de la investigación a realizar  durante el ciclo académico, puede ser observada en el siguiente diagrama de Gantt
+
+
+## Planificación sobre recolección de datos 
+
+Nuestro plan consta básicamente en dos muestras, la primera será de personas que se encuentren dentro de diferentes casinos y que estén realizando apuestas en diferentes juegos o máquinas. La siguiente sería de personas aleatorias tanto alumnos de la universidad como gente aleatoria en diversos lugares.
+
+En la muestra, que es la de personas que se encuentran realizando apuestas dentro del casino, tenemos pensado generar un Google form con las preguntas. De esta manera, podremos entregarles un celular o dispositivo electrónico para que rápidamente llenen la encuesta sin hacerles perder mucho tiempo. Además esto nos garantiza una recolección de datos ordenada y fácil de analizar. Este método nos servirá también para entrevistar a las personas aleatorias.
+
+
+## Recolección de datos
+
+La recolección se llevó a cabo mayoritariamente de forma virtual haciendo uso de redes sociales. Luego, se procedió a hacer la limpieza de datos muestra por muestra debido a que muchas respuestas estaban en diferentes unidades o respuestas incoherentes. Con todos los datos limpios, armamos un archivo csv para luego hacer unas gráficas que nos ayudarían a llegar a ciertas conclusiones relacionando variables. A continuación estas:
+
+
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+
+### 1. Tema delimitado
+
+Características de los Jugadores de Casinos en Lima.
+
+<br>
+
+### 2. Problemática
+
+Los casinos han sido por mucho tiempo pasatiempos destinados a un determinado nicho de la población, sin notorios cambios en su logística y atracciones, volviéndose poco atractivo a las nuevas generaciones (en comparación con las anteriores). Los casinos buscan tener un margen de ganancias óptimo, el cual no sea lo suficientemente grande como para que las personas no deseen jugar ya que nunca experimentaron la sensación de ganar. Sin embargo, varias personas sienten la necesidad de jugar y jugar (sin importar la cantidad de dinero que pierdan), siendo un transtorno psicológico llamado ludopatía. Éste transtorno es muchas veces subestimado, pero es un problema para las personas que lo padecen. Con nuestro trabajo de investigación buscamos encontrar relaciones entre las diferentes características de los jugadores, para así detectar ciertas tendencias e identificarlas.
+<br>
+
+
+### 3. Justificación
+
+Decidimos analizar el tema propuesto y abarcar dicha problemática debido a que consideramos que no existe información clara y reciente sobre este tema, con nuestra investigación lograremos identificar patrones que servirán de guía para futuras investigaciones y para ayudar a las empresas a estar al tanto de las personas asistentes a estos centros de entretenimiento.
+<br>
+
+
+### 4. Objetivos
+
+
+<br>
+
+**Objetivos generales**
+
+* Describir las edades más comunes de personas asistentes al casino
+
+* Describir el presupuesto que los jugadores encuestados están acostumbrados a tener
+
+* Explorar las diferencias que existen entre un jugador de edad avanzada a uno joven
+
+* Encontrar el juego preferido y describir porque es este
+
+* Determinar la existencia del balance entre el presupuesto y el valor esperado de la ganancia
+
+<br>
+
+
+**Objetivos específicos**
+
+* Descubrir si existe una relación notable entre la frecuencia de asistencia al casino con el valor esperado de la ganancia
+
+* Encontrar semejanzas entre jugadores asistentes al mismo casino
+
+* Descubrir si la mayoría de jugadores estan enterados de las probabilidades reales de ganar en los juegos que ellos frecuentan
+
+* Validar si existe un patrón de ludopatía en nuestra muestra.
+<br>
+
+<br>
+
+
+
+
+### 5. Definición de variables
+
+<center> ![](preguntas.png){width=50%} </center>
+
+
+### 6. Preguntas de investigación:
+
+
+**Preguntas descriptivas:**
+
+1 ¿Cuál es el casino más visitado?
+
+2 ¿Los integrantes de la muestra tienen idea de sus reales posibilidades de ganar?
+
+3 ¿Quiénes tienen mayor interés en el casino (hombres o mujeres)?
+
+4 ¿Cuál es el juego preferido?
+
+5 ¿Cuál es el resultado más frecuente (ganar o perder)?
+
+6 ¿A qué edad en promedio se empezo a ir al casino?
+
+
+
+**Preguntas exploratorias:**
+
+7 ¿Existe relación entre el presupuesto y la edad?
+
+8 ¿La ganancia esperada tiene relación con el presupuesto?
+
+9 ¿Existe relación entre la satisfaccion obtenida al jugar y el resultado general (ganar o perder frecuentemente) ? 
+
+10 ¿Qué diferencias hay en pérdida aceptada y 
+
+
+**Preguntas inferenciales:**
+
+11 ¿La frecuencia con la que una persona asiste al casino influye sobre su aceptación de pérdida?
+
+12 ¿Las personas que asisten más de 5 veces al mes creen que ganan siempre?
+
+**Preguntas predictivas:**
+
+13 ¿Se puede conocer la satisfacción de un cliente sabiendo la frecuencia mensual?
+
+14 ¿Es posible predecir la ganancia esperada de un jugador sabiendo su nivel de satisfacción al jugar?
+
+**Preguntas mecanísticas**
+
+15 ¿Cómo afecta a la tolerancia a perder el conocimiento sobre las probabilidades de ganar?
+
+16 ¿De qué manera determina la edad la regularidad de los clientes?
+
+**Preguntas casuales**
+
+17 ¿Qué factores influyen en el juego preferido de los clientes?
+
+18 ¿Qué factores determinan la ganancia máxima? 
+
+  
+
+```{r}
+
+
+library("graphics")
+
+library("grid")
+library("ggplot2") # beautiful graphs
+
+library("ggthemes") # nice themes for ggplot2
+
+library("ggbeeswarm") # "beeswarm" plots
+
+library("cowplot") # arrrange graphs
+
+library("pander") # nice tables
+
+library("psych") # nice table of descriptive statistics
+
+library("fdth") # carga la extensión fdth (para el calculo de distribución de frecuencias.
+
+DF<-readr::read_csv("Casino.csv")
+DF$`Ganancia maxima`<-round(DF$`Ganancia maxima`)
+DF$`Perdida Maxima`<-round(DF$`Perdida Maxima`)
+DF$Presupuesto<-round(DF$Presupuesto)
+
+```
+
+
+### Respuetas a las preguntas
+
+**Preguntas descriptivas:**
+
+* ¿Cuál es el casino más visitado?
+
+```{r}
+###<
+a<-table(DF$Casino)
+
+```
+
+
+* ¿Los integrantes de la muestra tienen idea de sus reales posibilidades de ganar?
+
+```{r}
+na.omit(DF)
+al<-table(DF$`Probabilidad de Ganar`)
+plot(al, xlab = "Probabilidad de ganar", ylab="Cantidad de clientes")
+```
+
+¿Quiénes tienen mayor interés en el casino (hombres o mujeres)?
+
+```{r}
+
+sas_hombres<-DF[which(DF$Sexo=="Hombre"),]$Satisfaccion
+sas_mujeres<-DF[which(DF$Sexo=="Mujer"),]$Satisfaccion
+ boxplot(sas_hombres,sas_mujeres,col=c("cyan2","skyblue2"),main="Sexo",ylab="Inter[es en el casino", names=c("Hombre","Mujer"))
+abline(h=mean(sas_hombres),col="skyblue2",lwd=2)
+abline(h=mean(sas_mujeres),col="cyan2",lwd=2)
+```
+
+
+¿Cuál es el juego más jugado?
+
+```{r}
+a<-table(DF$`Juego preferido`)
+barplot(a, col = "1")
+##
+
+```
+
+
+¿Cuál es el resultado más frecuente (ganar o perder)?
+
+```{r}
+a<-table(DF$Resultado)
+barplot(a)
+###
+```
+
+
+
+¿A qué edad en promedio se empezo a ir al casino?
+
+
+```{r}
+barplot(table(DF$`Edad de primera vez`), main = "Edades")
+
+```
+
+
+
+
+
+### Respuesta a preguntas exploratorias:
+
+¿Existe una relacion entre presupuesto y edad?
+
+
+
+```{r}
+plot(DF$Edad,DF$Presupuesto,xlab="Edad",ylab="Presupuesto",col="blue")
+```
+
+
+
+¿La ganancia esperada tiene relación con el presupuesto?
+
+```{r}
+table(DF$`Ganancia maxima`, DF$Presupuesto)
+
+plot(DF[which(DF$`Ganancia maxima`<800),]$`Ganancia maxima`, DF[which(DF$`Ganancia maxima`<800),]$Presupuesto,xlab="Ganancia maxima",ylab="Presupuesto", main="Ganancia vs presupuesto")
+```
+
+
+
+
+* ¿Existe relación entre la satisfaccion obtenida al jugar y el resultado general (ganar o perder frecuentemente) ? 
+
+
+```{r}
+boxplot(DF$Satisfaccion~DF$Resultado)
+plot(DF$Presupuesto~DF$Satisfaccion)
+ggplot(data = DF,aes(x=DF$Resultado,y=DF$Satisfaccion,fill=DF$Resultado))+geom_boxplot()+labs(title = "Satisfaccion por resultado",x="Resultado",y="Satisfaccion")+geom_hline(yintercept=7,color="red")+geom_hline(yintercept=6.625,color="green")+geom_hline(yintercept=4.142857,color="blue")
+mean(DF[which(DF$Resultado=="Gana"),]$Satisfaccion)
+mean(DF[which(DF$Resultado=="Pierde"),]$Satisfaccion)
+mean(DF[which(DF$Resultado=="Ninguna"),]$Satisfaccion)
+```
+
+### Preguntas inferenciales
+
+
+
+
+¿Es coherente afirmar que un cliente con alta satisfacción asiste constantemente al casino y su perdida esperada es relativamente mayor?
+
+Para responder la pregunta, usamos una grafica que represente la satisfaccion vs la frecuencia mensual de asistencia del jugador. Luego, por medio de la funcion geom_smooth, usamos el modelo de regresion lineal "lm" para intentar hallar una relación:
+
+```{r}
+k<-ggplot(data = DF, aes(x=DF$Satisfaccion,y=DF$`Frecuencia mensual`))
+k+geom_point()
+
+mm <- lm(DF$`Frecuencia mensual`~DF$Satisfaccion)
+summary(mm)
+satis<-subset(DF, DF$Satisfaccion>=6)
+y=0.025
+d=0.025
+
+gg<-k +  stat_density2d(aes(fill = ..density..^0.5), geom = "tile", contour = FALSE, n = 200) +   scale_fill_continuous(low = "white", high = "dodgerblue4")
+gg+geom_smooth(method = lm, se=FALSE)+ylim(0,15) + labs(x="Satisfaccion", y="Frecuencia mensual", fill="Densidad")
+
+```
+
+Con un $r^2$ de 0.4113, podemos señalar que existe una suficiente relación entre las variables.
+
+
+Utilizaremos un nivel de confianza del 0.16 para hallar el estadístico de prueba:
+
+```{r}
+mean(satis$`Frecuencia mensual`)
+sd(satis$`Frecuencia mensual`)
+t.test(satis$`Frecuencia mensual`,mu=3,alternative = "g",conf.level = 0.16)
+```
+
+**Descripción: **
+
+
+```{r}
+nsatis<-subset(DF,DF$Satisfaccion<6)
+nsatis<-nsatis[complete.cases(nsatis),]
+muh<-(mean(nsatis$`Perdida Maxima`))
+t.test(satis$`Perdida Maxima`,nsatis$`Perdida Maxima`,conf.level = 0.9)
+```
+
+
+
+
+```{r}
+DFC<-DF
+DFC[which(DFC$Satisfaccion>=6),]$Satisfaccion<-"Alta"
+DFC[which(DFC$Satisfaccion<6),]$Satisfaccion<-"Baja"
+DFC[which(DFC$`Perdida Maxima`>100),]$`Perdida Maxima`<-175
+DFC[which(DFC$`Perdida Maxima`<=100 & DF$`Perdida Maxima`>50),]$`Perdida Maxima`<-75
+DFC[which(DFC$`Perdida Maxima`<=50 & DFC$`Perdida Maxima`>30),]$`Perdida Maxima`<-35
+DFC[which(DFC$`Perdida Maxima`<=30 & DFC$`Perdida Maxima`>20),]$`Perdida Maxima`<-25
+DFC[which(DFC$`Perdida Maxima`<=20 & DFC$`Perdida Maxima`>10),]$`Perdida Maxima`<-20
+DFC[which(DFC$`Perdida Maxima`<=10),]$`Perdida Maxima`<-5
+
+DFC[which(DFC$`Perdida Maxima`==175),]$`Perdida Maxima`<-"100 - +"
+DFC[which(DFC$`Perdida Maxima`==75),]$`Perdida Maxima`<-"50 - 100"
+DFC[which(DFC$`Perdida Maxima`==35),]$`Perdida Maxima`<-"30 - 50"
+DFC[which(DFC$`Perdida Maxima`==25),]$`Perdida Maxima`<-"20 - 30"
+DFC[which(DFC$`Perdida Maxima`==20),]$`Perdida Maxima`<-"10 - 20"
+DFC[which(DFC$`Perdida Maxima`==5),]$`Perdida Maxima`<-"0 - 10"
+
+estos<-as.data.frame(table(DFC$Satisfaccion, DFC$`Perdida Maxima`))
+
+ggplot(data = estos, mapping = aes(x = estos$Var1, y = estos$Freq, fill = estos$Var2, order=estos$Var2)) + geom_bar(stat="identity", position="stack")+labs(x="Satisfaccion", y="Perdida maxima",fill="Perdida maxima")+theme_update()
+```
+
+
+
+
+
+
+
+¿Existe suficiente evidencia para señalar que la mayoría de personas que juegan a la maquina tragamonedas, son mayores que las que juegan los demas juegos?
+
+Para responder esta pregunta, se preparará un data frame, con las edades como variable categórica:
+```{r}
+dfp<-DF
+max(DF$Edad)
+dfp[which(dfp$Edad>44),]$Edad<-45
+dfp[which(dfp$Edad<=44),]$Edad<-40
+
+dfp[which(dfp$Edad==45),]$Edad<-"45 - 73"
+dfp[which(dfp$Edad==40),]$Edad<-"0 - 44"
+pref<-as.data.frame(table(dfp$Edad,dfp$`Juego preferido`))
+ggplot(data = pref, mapping = aes(x = pref$Var1, y = pref$Freq, fill = pref$Var2))+geom_bar(stat="identity", position="dodge") + ylab("Cantidad de clientes") + xlab("Rango de edades") + ggtitle("Edades y juegos preferidos") + labs(fill="Juego")
+```
+
+
+Sacamos las medias de cada conjunto, de los que prefieren la maquina tragamoneda
+Y de los que prefieren los demás juegos
+
+```{r}
+nmaq<-subset(DF$Edad,DF$`Juego preferido` == "maquina tragamoneda")
+maq<-subset(DF$Edad,DF$`Juego preferido` != "maquina tragamoneda")
+```
+
+
+
+Prueba de hipotesis
+$H[0]$: edad de no tragamonedoas = edad de tragamonedas
+$H[1]$: edad de no tragamonedoas =/ $ edad de tragamonedas
+
+```{r}
+t.test(nmaq,maq,conf.level = 0.9,alternative = "two.sided")
+```
+
+
+Como demuestra la prueba de hipotesis, aceptamos la hipótesis nula, concluyendo que la edad promedio de las personas que no les gusta la maquina tragamonedas, 1.5 veces menor en el mayor de los casos, con una confianza del 75%.
+
+
+
+
+
+
+
+
+
+
+
+## Preguntas predictivas
+
+
+#  ¿Es posible predecir la ganancia esperada de un jugador sabiendo su nivel de satisfaccion al jugar?
+ Grafica Ganancia Máxima vs Nivel de satisfacción al jugar
+
+
+```{r}
+satisfaccionaljugar<-DF$Satisfaccion[which(DF$`Ganancia maxima`<1500)]
+gananciaesperada<-(DF$`Ganancia maxima`[which(DF$`Ganancia maxima`<1500)])
+plot(satisfaccionaljugar,gananciaesperada
+     ,main="Ganancia esperada segun satisfacción"
+     ,ylab="Ganancia esperada"
+     ,xlab="satisfacción"
+     ,xlim=c(0,10))
+     
+     
+abline(lm(satisfaccionaljugar~gananciaesperada), col="blue")
+coeficiente_es<-c("r:",round(cor(satisfaccionaljugar, gananciaesperada),2))
+legend(25, 70,legend=c(coeficiente_es),cex=0.8)
+summary(lm(gananciaesperada~satisfaccionaljugar))
+
+```
+
+
+
+# ¿Se puede conocer la satisfacción de un cliente sabiendo la frecuencia mensual?
+
+
+
+
+```{r}
+
+p1<-ggplot(data = DF, aes(x =  DF$Satisfaccion, y =DF$`Frecuencia mensual`))
+```
+
+
+```{r}
+p1 +
+  stat_density_2d(aes(fill = ..level..), geom = "polygon") +  scale_fill_gradient(low = "blue", high = "red") +  labs(title ="Density Plot of Outcome by Predictor") + geom_point(color = "orange", size =3) + theme_solarized(light =  FALSE) + scale_color_solarized("blue") + labs(x="Satisfacción", y="Frecuencua Mensual", title = "Densidad de Frecuencia mensual por satisfacción", caption = "Densidad no uniforme", fill="Nivel")
+```
+
+
+
+
+
+```{r}
+ax<-lm(DF$Satisfaccion~DF$`Frecuencia mensual`)
+summary(ax)
+plot(ax)
+```
+
+
+```{r}
+
+p1 + geom_smooth() + geom_point(color = "orange") + labs(title="Regresión suavizada",x="Satisfacción",y="Frecuencia Mensual") +xlim(1,10)
+p1a<-loess(DF$`Frecuencia mensual`~DF$Satisfaccion, span = 0.1)
+summary(p1a)
+smp1a<-predict(p1a)
+```
+
+```{r}
+library(ggplot2)
+satisfaccionaljugar<-DF$Satisfaccion
+frec<-DF$`Frecuencia mensual`
+ggplot(data = DF,aes(x=satisfaccionaljugar,y=frec))+stat_density2d(aes(fill = ..density..^0.5), geom = "tile", contour = FALSE, n = 200) +   scale_fill_continuous(low = "white", high = "dodgerblue4") + geom_smooth(method = lm)+ylim(0,10)+labs(x="Satisfaccion",y="Frecuencia Mensual",fill="Densidad")
+summary(lm(DF$`Frecuencia mensual`~DF$Satisfaccion))
+```
+
+
+
+¿Es posible predecir la ganancia esperada de un jugador sabiendo su nivel de satisfaccion al jugar?
+ Grafica Ganancia Esperada vs Nivel de satisfacción al jugar
+
+
+```{r}
+satisfaccionaljugar<-DF$Satisfaccion[which(DF$`Ganancia maxima`<1500)]
+gananciaesperada<-(DF$`Ganancia maxima`[which(DF$`Ganancia maxima`<1500)])
+plot(satisfaccionaljugar,gananciaesperada
+     ,main="Ganancia esperada segun satisfacción"
+     ,ylab="Ganancia esperada"
+     ,xlab="satisfacción"
+     ,xlim=c(0,10)
+,ylim=c(0,800))
+
+     
+     
+abline(lm(satisfaccionaljugar~gananciaesperada), col="blue")
+coeficiente_es<-c("r:",round(cor(satisfaccionaljugar, gananciaesperada),2))
+legend(25, 70,legend=c(coeficiente_es),cex=0.8)
+summary(lm(gananciaesperada~satisfaccionaljugar))
+```
+
+
+
+
+
+## Preguntas macanísticas
+
+
+15 ¿Cómo afecta a la tolerancia a perder el conocimiento sobre las probabilidades de ganar?
+
+En esta pregunta se va a analizar si hay alguna relación entre la tolerancia a perder dinero en el casino y el conocimiento de las probabilidades de ganar. Lógicamente, si una persona sabe que sus probabilidades de ganar son bajas, debería de tolerar más la pérdida.
+
+```{r}
+
+probabilidad<- (DF$`Probabilidad de Ganar`)
+tolerancias <- (DF$`Perdida Maxima`)
+probabilidad
+tolerancias
+```
+
+
+
+Como podemos ver, si hay una relación directa entre las tolerancias y la idea sobre probabilidades de ganar
+
+
+
+16 ¿De qué manera determina el casino la regularidad de los clientes?
+
+En esta pregunta vmaos ha analizar si la edad de kis encuestados afecta la regularidad con la que van al casino. Esto se podría deber a diferentes niveles de estabilidad económica, tiempo libre, etc. 
+
+Por otro lado, en el capítulo 5 de la tésis "ESTUDIO SOBRE LA REPUTACIÓN PERCIBIDA POR LOS
+CLIENTES POTENCIALES, ENFOCADO EN LAS DIMENSIONES
+DE LA ÉTICA Y RESPONSABILIDAD CORPORATIVA, Y
+CALIDAD DEL SERVICIO EN LAS SALAS MÁS EXCLUSIVAS
+DEL SECTOR DE JUEGOS DE CASINOS Y MÁQUINAS
+TRAGAMONEDAS EN LOS DISTRITOS DE INDEPENDENCIA,
+SAN MIGUEL, MIRAFLORES, SAN ISIDRO, SANTIAGO DE
+SURCO, MAGDALENA Y LINCE"(CABRERA LEIVA, Will Jhino) se menciona el análisis de una pregunta relativamente parecida, la diferencia es que se divide la frecuencia y las edades de una manera diferente. Resaltando una gran mayoría de frecuencia en relación a los clientes entre 35 y 56 años.
+
+```{r}
+mec1 <- table(DF$`Frecuencia mensual`,DF$Edad)
+barplot(mec1, main="Distribucion de frecuencias y edad",
+  xlab="Edad", col=c("darkblue"),ylab = "Frecuencia mensual")
+
+```
+
+
+Para esto vamos a comparar las medias de frecuencia mensual según la edad. 
+
+```{r}
+
+fiesta<-na.omit(DF$`Frecuencia mensual`[which(DF$Casino=="Fiesta")])
+mean(fiesta)
+atlantic<-na.omit(DF$`Frecuencia mensual`[which(DF$Casino=="Atlantic")])
+atlantic
+mean(atlantic)
+ninguno<-na.omit(DF$`Frecuencia mensual`[which(DF$Casino=="Ninguno")])
+mean(ninguno)
+```
+
+
+
+
+
+Como se puede ver, la media de frecuencia en los clientes del casino FIesta es mucho mas alta. Esto nos dice, por lo menos para nuestra muestra, que exiten factores que hacen que los clientes sean mas fieles en ese casino.
+
+
+
+
+## Preguntas casuales:
+
+17 ¿Influye la edad en el juego preferido de los clientes?
+
+Si bien anteriormente analizamos la relación entre la edad y la frecuencia de asitsencia al casino, en esta pregunta veremos si hay una relación entre la edad y el juego preferido de los clientes: 
+
+
+```{r}
+edad<-na.omit(DF$Edad)
+juego<-na.omit(DF$Juego)
+```
+
+plot(juego,edad,xlab="Juego favorito",ylab="Edad", main="Juego favorito vs Edad")
+
+
+
+Como podemos ver en la gráfica,en realidad no hay ninguna particularidad entre los firenetes juegos favoritos. Esta falta de relación probablemente se da a que el juego favorito es muy subjetivo.Si por ejemplo, evauluáramos el juego más jugado, se podría encontrar una relación. Pero, para este caso, se podría concluir que , al menos en nuestra muestra, no hay una aparente relación. 
+
+
+
+
+18 ¿Qué factores determinan la ganancia máxima? 
+
+Dado, que nosotros conocemos teoria de probabilidades, si evlaumos las posibilidades de en este ejemplo: 
+
+Posibilidades de Duplicar tu dinero en porcentaje
+
+
+Ruleta
+```{r}
+(17/36)*100
+```
+
+
+En máquina tragamonedas:
+
+La mayoría de máquina de tragamonedas tienen un retorno de entre 80 y 95 céntimos de retorno por sol invertido. Sin embargo, dado que hay muchos premios distintos que ocurren con frecuencias muy diferentes, no se puede determinar la probabilidad de duplicar tu dinero. 
+
+En blackjack:
+
+La probabilidad de ganar en este juego esta severmente influenciada por las regals con las que se juega, cada casino tiene diferentes reglas que beneficias más al jugador o a la casa.  
+
+
+
+En una situación irrealistamente positiva para el jugadpr :Si consideramos que se juega con un solo deck, el dealer pide hasta 17 y el pago de blackjack
+
+Probabilidad de sacar blackjack, pago 3/2
+```{r}
+result <-4*16/choose(52,2)
+result
+```
+
+ 
+
+
+
+Probabilidad de ganar la mano
+ Dada la gran cantidad de variables que entran en juego al calcular una sola mano lo calcularemos con lo que se sabe que tiene de ventaja casa en un juego general de blackjack que es 0.05 entonces :
+ 
+ Aproximados: 
+Probabilidad de ganar:44
+Probabilidad de de perder:48
+Probabilidad de empatar: 8
+
+
+
+
+## Preguntas macanísticas
+
+
+15 ¿Cómo afecta a la tolerancia a perder el conocimiento sobre las probabilidades de ganar?
+
+En esta pregunta se va a analizar si hay alguna relación entre la tolerancia a perder dinero en el casino y el conocimiento de las probabilidades de ganar. Lógicamente, si una persona sabe que sus probabilidades de ganar son bajas, debería de tolerar más la pérdida.
+
+```{r}
+
+probabilidad<- (DF$Probabilidad.de.Ganar)
+tolerancias <- (DF$Perdida.Maxima)
+probabilidad
+tolerancias
+```
+
+
+
+Como podemos ver, si hay una relación directa entre las tolerancias y la idea sobre probabilidades de ganar
+
+
+
+16 ¿De qué manera determina la la regularidad de los clientes?
+
+En esta pregunta vmaos ha analizar si la edad de los encuestados afecta la regularidad con la que van al casino. Esto se podría deber a diferentes niveles de estabilidad económica, tiempo libre, etc. 
+
+Por otro lado, en el capítulo 5 de la tésis "ESTUDIO SOBRE LA REPUTACIÓN PERCIBIDA POR LOS
+CLIENTES POTENCIALES, ENFOCADO EN LAS DIMENSIONES
+DE LA ÉTICA Y RESPONSABILIDAD CORPORATIVA, Y
+CALIDAD DEL SERVICIO EN LAS SALAS MÁS EXCLUSIVAS
+DEL SECTOR DE JUEGOS DE CASINOS Y MÁQUINAS
+TRAGAMONEDAS EN LOS DISTRITOS DE INDEPENDENCIA,
+SAN MIGUEL, MIRAFLORES, SAN ISIDRO, SANTIAGO DE
+SURCO, MAGDALENA Y LINCE"(CABRERA LEIVA, Will Jhino) se menciona el análisis de una pregunta relativamente parecida, la diferencia es que se divide la frecuencia y las edades de una manera diferente. Resaltando una gran mayoría de frecuencia en relación a los clientes entre 35 y 56 años.
+
+```{r}
+mec1 <- table(DF$`Frecuencia mensual`,DF$Edad)
+length(DF$`Frecuencia mensual`)
+length(DF$Edad)
+barplot(mec1, main="Distribucion de frecuencias y edad",
+  xlab="Edad", col=c("darkblue"),ylab = "Frecuencia mensual")
+
+```
+
+
+Para esto vamos a comparar las medias de frecuencia mensual según la edad. 
+
+```{r}
+
+joven<-na.omit(DF$Frecuencia.mensual[which(DF$Edad<35)])
+mean(joven)
+adulto<-na.omit(DF$Frecuencia.mensual[which(DF$Edad<56,DF$Edad>35)])
+
+mean(adulto)
+adultomayor<-na.omit(DF$Frecuencia.mensual[which(DF$Edad>56)])
+mean(adultomayor)
+```
+
+
+
+
+
+Como se puede ver, la media de frecuencia en los clientes del casino FIesta es mucho mas alta. Esto nos dice, por lo menos para nuestra muestra, que exiten factores que hacen que los clientes sean mas fieles en ese casino.
+
+
+
+
+### Conclusión
+
+En conclusión, pudimos analizar respuestas obtenidas mediante encuentas para luego de separarlas por variables y posteriormente correlacionarlas para poder ir formulando hipótesis y corroborarlas con nuestros datos. Mediante muchos tipod de preguntas planteadas, pudimos hallar relaciones. Dado que durante el ciclo no hemos todas las herramientas necesarias para contestar bien las preguntas causales y mecanisticas. Por esta razón, hemos simplemente hecho nuestro mejor intento para ganar información que podría ayudarnos a responder la pregunta en el futuro, nos hemos basado en fuentes académicas, cálculos probabilísticos y análisas de nuestros datos.Respecto a las mecanísticas : Como podemos ver en las gráficas, las personas mayores parecen tener una mayor frecuencia de asistencia y las personas que no conocen sus reales probabilidades de ganar suelen tolerar más las pérdidas. Respecto a las preguntas causales, parece que hay una relación entre el juego favorito y la edad. También se puede observar como varía la ganancia según el juego preferido. Con las respuestas de las preguntas predictivas, podemos afirmar que la ganancia esperada no es explicada por el nivel de satisfacción y que la satisfacción del cliente podría estar relacionada a la frecuencia de asistencia mensual. Esto y más nos ayuda a sacar conclusiones y validar o no hipótesis varias. Se podría usar el estudio para hacer inferencias sobre rasgos de ludopatía en personas.
