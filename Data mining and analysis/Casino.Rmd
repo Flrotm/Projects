@@ -1,9 +1,10 @@
 ---
-title: "Tendencias en los clientes de casinos en Lima   "
-
-author: "Francesco Uccelli Meneses - 201810253, Alejandro Buitrago Zegarra - 201820079, Carlos Mazuelos Selem - 201810195, Santiago Madariaga Collado - 201810677"
+title: 'Tendencias en los clientes de casinos en Lima   '
+author: Francesco Uccelli Meneses - 201810253, Alejandro Buitrago Zegarra - 201820079,
+  Carlos Mazuelos Selem - 201810195, Santiago Madariaga Collado - 201810677
 date: "Barranco, 2019"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---

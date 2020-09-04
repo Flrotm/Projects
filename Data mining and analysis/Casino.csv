@@ -1,0 +1,80 @@
+Sexo,Edad,Frecuencia mensual,Edad de primera vez,Juego preferido,Resultado,Presupuesto,Probabilidad de Ganar,Ganancia maxima,Perdida Maxima,Satisfaccion,Casino
+Mujer,23,1,18,ruleta,Ninguna,70,No,100,20,4,Fiesta
+Hombre,18,5,18,ruleta,Pierde,80,No,300,80,9,Fiesta
+Hombre,18,5,18,blackjack,Pierde,50,No,50,30,7,Fiesta
+Hombre,18,7,18,ruleta,Pierde,50,No,50,30,7,Fiesta
+Mujer,18,1,18,ruleta,Gana,100,No,300,100,6,Atlantic
+Mujer,18,3,18,pocker,Pierde,50,0.3,70,20,5,Fiesta
+Hombre,18,3,18,maquina tragamoneda,Pierde,30,0.5,60,20,5,Atlantic
+Mujer,18,1,18,maquina tragamoneda,Pierde,10,0.5,20,0,3,Atlantic
+Hombre,18,0,18,blackjack,Pierde,30,No,40,10,1,Fiesta
+Hombre,19,3,18,pocker,Gana,100,No,100,50,8,Fiesta
+Hombre,19,2,17,maquina tragamoneda,Gana,30,No,30,30,8,Atlantic
+Hombre,19,1,18,blackjack,Pierde,50,0.5,50,50,8,Fiesta
+Hombre,19,1,18,ruleta,Ninguna,20,0.3,50,40,7,Fiesta
+Hombre,19,1,18,maquina tragamoneda,Pierde,30,0.5,50,20,6,Atlantic
+Hombre,20,13,14,pocker,Gana,290,No,340,100,9,Fiesta
+Mujer,20,3,23,maquina tragamoneda,Gana,40,0.02,10,10,7,Delfines
+Mujer,21,7,21,ruleta,Gana,220,No,300,20,8,Fiesta
+Mujer,21,3,18,ruleta,Pierde,70,0.4,90,50,6,Atlantic
+Hombre,21,1,21,maquina tragamoneda,Pierde,50,0.5,200,100,6,Atlantic
+Hombre,22,1,18,pocker,Ninguna,200,0.6,200,100,7,Royale
+Hombre,23,1,18,ruleta,Pierde,70,No,90,50,5,Fiesta
+Mujer,23,0,21,ruleta,Pierde,20,0.5,120,10,3,megestic
+Mujer,26,0,18,maquina tragamoneda,Pierde,40,No,70,30,3,Fiesta
+Hombre,27,9,23,pocker,Gana,35,40,100,20,8,Atlantic
+Hombre,29,6,18,maquina tragamoneda,Gana,170,0.2,500,120,7,Merlin ica
+Hombre,33,0,24,maquina tragamoneda,Gana,500,0.3,1200,200,6,Merlin ica
+Mujer,33,0,31,maquina tragamoneda,Pierde,10,No,100,10,1,Fiesta
+Mujer,35,1,19,maquina tragamoneda,Gana,125,0.5,1200,100,10,Liberty aviaci¢n 
+Mujer,35,2,15,maquina tragamoneda,Ninguna,50,0.5,300,50,4,Fiesta
+Hombre,36,1,23,maquina tragamoneda,Gana,78,No,100,20,5,Atlantic
+Mujer,37,2,23,maquina tragamoneda,Gana,30,0.1,40,10,5,Peppermill 
+Hombre,39,1,18,maquina tragamoneda,Pierde,50,0.5,100,20,2,Fiesta
+Mujer,40,4,18,blackjack,Gana,46,No,120,20,8,Fiesta
+Mujer,40,3,24,,Gana,180,No,220,100,7,Fiesta
+Mujer,40,1,20,ruleta,Gana,70,No,80,50,5,Fiesta
+Hombre,40,1,18,,Gana,100,No,130,70,5,Fiesta
+Mujer,40,1,23,maquina tragamoneda,Gana,108,0.5,120,10,3,Liberty aviaci¢n 
+Hombre,41,5,33,maquina tragamoneda,Pierde,100,0.1,200,50,8,Atlantic
+Mujer,41,3,18,maquina tragamoneda,Pierde,90,0.01,200,50,5,Fiesta
+Mujer,42,2,18,maquina tragamoneda,Pierde,70,0.5,30,30,4,Fiesta
+Hombre,46,2,18,maquina tragamoneda,Pierde,30,0.6,50,0,4,Atlantic
+Mujer,48,10,35,,Gana,400,No,300,100,10,Fiesta
+Mujer,48,1,18,maquina tragamoneda,Pierde,50,0.4,50,50,6,Atlantic
+Mujer,49,1,18,maquina tragamoneda,Ninguna,67.16,0.3,67.16,167.89,8,Atlantic
+Mujer,49,0,30,maquina tragamoneda,Gana,67.16,0.5,335.78,67.16,8,Peppermill 
+Mujer,49,1,24,maquina tragamoneda,Gana,50,0.5,50,50,7,Atlantic
+Mujer,49,2,23,maquina tragamoneda,Gana,20,0.5,30,10,7,Fiesta
+Mujer,49,0,25,maquina tragamoneda,Gana,30,0.2,500,100,6,Delfines
+Mujer,49,1,32,maquina tragamoneda,Pierde,10,0.5,30,,5,megestic
+Mujer,49,2,30,maquina tragamoneda,Pierde,30,No,50,30,5,Fiesta
+Mujer,49,0,18,maquina tragamoneda,Pierde,67.16,0.01,134.32,67.16,3,Palace
+Mujer,49,0,18,maquina tragamoneda,Pierde,20,0.01,20,20,2,Ninguno
+Mujer,49,0,18,ruleta,Pierde,67.16,No,134.32,0,2,Atlantic
+Mujer,49,0,20,maquina tragamoneda,Pierde,20,No,30,0,2,Fiesta
+Mujer,49,1,20,maquina tragamoneda,Pierde,50,No,50,50,1,Fiesta
+Mujer,50,2,23,maquina tragamoneda,Gana,50,0.3,200,50,7,Atlantic
+Mujer,50,1,18,maquina tragamoneda,Pierde,30,0.01,40,10,3,Ninguno
+Mujer,50,0,50,maquina tragamoneda,Pierde,30,0.01,10,10,3,Ninguno
+Mujer,51,1,18,maquina tragamoneda,Pierde,70,No,100,70,4,Fiesta
+Hombre,53,1,42,maquina tragamoneda,Gana,20,No,20,20,4,Atlantic
+Mujer,53,1,18,maquina tragamoneda,Pierde,20,0.02,40,0,1,Ninguno
+Hombre,55,3,18,maquina tragamoneda,Pierde,50,0.7,120,20,4,Fiesta
+Hombre,55,1,23,ruleta,Gana,50,No,70,30,4,Fiesta
+Mujer,56,1,30,maquina tragamoneda,Ninguna,67.16,No,67.16,67.16,8,Fiesta
+Hombre,58,2,47,maquina tragamoneda,Pierde,20,20,70,0,5,Fiesta
+Mujer,58,1,18,blackjack,Pierde,30,No,50,20,1,Fiesta
+Mujer,59,2,18,maquina tragamoneda,Pierde,30,0.1,50,30,7,Fiesta
+Mujer,59,1,19,maquina tragamoneda,Pierde,80,0.01,200,70,7,Atlantic
+Mujer,59,1,18,ruleta,Pierde,50,0.01,70,20,4,Ninguno
+Mujer,60,10,30,,Gana,1000,No,5000,500,10,Fiesta
+Mujer,63,10,28,,Gana,20,No,50,20,10,Fiesta
+Mujer,63,5,20,maquina tragamoneda,Ninguna,200,No,100,150,8,Fiesta
+Mujer,64,0,18,maquina tragamoneda,Pierde,70,No,100,20,1,Fiesta
+Hombre,65,2,18,maquina tragamoneda,Ninguna,20,0.2,50,30,7,la hacienda
+Mujer,66,1,18,maquina tragamoneda,Pierde,30,No,70,10,4,Fiesta
+Hombre,68,0,60,maquina tragamoneda,Pierde,40,0.1,70,20,4,la hacienda
+Mujer,68,1,18,maquina tragamoneda,Pierde,10,0.02,30,0,2,Ninguno
+Mujer,71,10,23,maquina tragamoneda,Gana,20,0.01,30,10,10,Atlantic
+Hombre,73,2,60,maquina tragamoneda,Gana,75,No,100,10,5,Atlantic
