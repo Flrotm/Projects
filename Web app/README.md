@@ -1,4 +1,4 @@
-# Plataforma web desarrollada con Flask para hacer registro de pedidos.
+# Web app developed with flask to register orders
 # https://espirituhielo.herokuapp.com/
 
 
