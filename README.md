@@ -1,4 +1,4 @@
-# Se my projects related to:
+# See my projects related to:
 
 # [Data analysis](https://github.com/Flrotm/Projects/tree/master/Data%20analysis)
 
