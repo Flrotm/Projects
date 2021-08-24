@@ -6,3 +6,5 @@
 
 # [Web](https://github.com/Flrotm/Projects/tree/master/Web%20app)
 
+# [AI](https://github.com/Flrotm/Projects/tree/master/AI)
+
