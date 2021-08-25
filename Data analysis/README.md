@@ -11,11 +11,11 @@ Example 1:
 
 
 Example 2:
-# A graph to compare attendance density and the satisfaction
+A graph to compare attendance density and the satisfaction
 <br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/graf2.JPG )
 
-# And then the hypothesis testing
+And then the hypothesis testing
 <br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/hyp.JPG )
 
