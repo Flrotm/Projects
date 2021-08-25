@@ -6,7 +6,7 @@
 
 Example:
 A graph to compare the expeted result (win, lose, even) vs the satisfaction a client communicates
-![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/grafico.JPG =250x)
+![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/grafico.JPG )
 
 
 
