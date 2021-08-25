@@ -3,7 +3,7 @@
  - Proposed a series of questions to be answered 
  - Analyzed the data to find behavior patterns 
  - Did hypothesis testing for a set of questions
- - The full work and graphs showed here were generated using R
+ - The full work and graphs shown here were generated using R
 
 Example 1:
 A graph to compare the expected result (win, lose, even) vs the satisfaction a client communicates
