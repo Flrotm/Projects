@@ -4,4 +4,10 @@
  - Analyzed the data to find behavior patterns 
  - Did hypothesis testing for a set of questions
 
-See here : [PDF](Casino.pdf)
+Example:
+A graph to compare the expeted result (win, lose, even) vs the satisfaction a client communicates
+![](/images/grafico.JPG)
+
+
+
+See full work here : [PDF](Casino.pdf)
