@@ -6,14 +6,17 @@
 
 Example 1:
 A graph to compare the expeted result (win, lose, even) vs the satisfaction a client communicates  
+<br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/grafico.JPG )
 
 
 Example 2:
 A graph to compare attendance density and the satisfaction  
+<br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/graf2.JPG )
 
 And then the hypothesis testing  
+<br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/hyp.JPG )
 
 
