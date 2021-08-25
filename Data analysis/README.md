@@ -17,4 +17,4 @@ And then the hypothesis testing
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/hyp.JPG )
 
 
-See full work here : [PDF](Casino.pdf)
+## See full work here : [PDF](Casino.pdf)
