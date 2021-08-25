@@ -19,5 +19,6 @@ And then the hypothesis testing
 <br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/hyp.JPG )
 
+And therefore we conclude that the attendace rate could be related to the explected satisfaction
 
 ## See full work here : [PDF](Casino.pdf)
