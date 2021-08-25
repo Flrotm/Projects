@@ -4,10 +4,17 @@
  - Analyzed the data to find behavior patterns 
  - Did hypothesis testing for a set of questions
 
-Example:
+Example 1:
 A graph to compare the expeted result (win, lose, even) vs the satisfaction a client communicates
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/grafico.JPG )
 
+
+Example 2:
+A graph to compare attendance density and the satisfaction
+![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/graf2.JPG )
+
+And then the hypothesis testing
+![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/hyp.JPG )
 
 
 See full work here : [PDF](Casino.pdf)
