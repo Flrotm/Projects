@@ -5,7 +5,7 @@
  - Did hypothesis testing for a set of questions
 
 Example 1:
-# A graph to compare the expeted result (win, lose, even) vs the satisfaction a client communicates
+A graph to compare the expeted result (win, lose, even) vs the satisfaction a client communicates
 <br />
 ![](https://github.com/Flrotm/Projects/blob/master/Data%20analysis/images/grafico.JPG )
 
