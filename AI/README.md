@@ -6,7 +6,7 @@
 - Implemented loss functions
 - Implemented gradient descent optimizations (Momentum, adagrad, adadelta & adam)
 
-![Lasso and Ridge](/images/reg.JPG)
+![Lasso and Ridge](https://github.com/Flrotm/Projects/blob/master/AI/images/reg.JPG)
   
 # [2: Face emotion classification](https://github.com/Flrotm/Projects/edit/master/AI/py2) 
 
