@@ -5,7 +5,7 @@
 - Implemented regularization techniques (Ridge & Lasso)
 - Implemented loss functions
 - Implemented gradient descent optimizations (Momentum, adagrad, adadelta & adam)
-<br />
+
 Comparison between the logistic regression models 
 <br />
 ![Lasso and Ridge](https://github.com/Flrotm/Projects/blob/master/AI/images/reg.JPG)
