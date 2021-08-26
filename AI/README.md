@@ -6,9 +6,10 @@
 - Implemented loss functions
 - Implemented gradient descent optimizations (Momentum, adagrad, adadelta & adam)
 
+Comparison between the logistic regression models 
 ![Lasso and Ridge](https://github.com/Flrotm/Projects/blob/master/AI/images/reg.JPG)
   
-
+Comparison between the gradient descent optimization techniques 
 ![Gradient descent optimization](https://github.com/Flrotm/Projects/blob/master/AI/images/gd.JPG)
 
 # [2: Face emotion classification](https://github.com/Flrotm/Projects/edit/master/AI/py2) 
