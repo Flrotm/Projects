@@ -5,11 +5,13 @@
 - Implemented regularization techniques (Ridge & Lasso)
 - Implemented loss functions
 - Implemented gradient descent optimizations (Momentum, adagrad, adadelta & adam)
-
+<br />
 Comparison between the logistic regression models 
+<br />
 ![Lasso and Ridge](https://github.com/Flrotm/Projects/blob/master/AI/images/reg.JPG)
   
 Comparison between the gradient descent optimization techniques 
+<br />
 ![Gradient descent optimization](https://github.com/Flrotm/Projects/blob/master/AI/images/gd.JPG)
 
 # [2: Face emotion classification](https://github.com/Flrotm/Projects/edit/master/AI/py2) 
