@@ -2,10 +2,11 @@
 
 # [1: Non linear regression and regularization](https://github.com/Flrotm/Projects/edit/master/AI/py1) 
 - Implemented a non-linear regression model
-- Implemented regularization techniques
+- Implemented regularization techniques (Ridge & Lasso)
 - Implemented loss functions
 - Implemented gradient descent optimizations (Momentum, adagrad, adadelta & adam)
 
+![Lasso and Ridge](/images/reg.JPG)
   
 # [2: Face emotion classification](https://github.com/Flrotm/Projects/edit/master/AI/py2) 
 
