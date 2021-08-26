@@ -8,6 +8,9 @@
 
 ![Lasso and Ridge](https://github.com/Flrotm/Projects/blob/master/AI/images/reg.JPG)
   
+
+![Gradient descent optimization](https://github.com/Flrotm/Projects/blob/master/AI/images/gd.JPG)
+
 # [2: Face emotion classification](https://github.com/Flrotm/Projects/edit/master/AI/py2) 
 
 # [3: Clustering brain images](https://github.com/Flrotm/Projects/edit/master/AI/py3)
