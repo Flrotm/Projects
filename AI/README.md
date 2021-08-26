@@ -1,7 +1,7 @@
 # AI Projects
 
 # [1: Non linear regression and regularization](https://github.com/Flrotm/Projects/edit/master/AI/py1) 
-- Implemented non-linear regression model
+- Implemented a non-linear regression model
 - Implemented regularization techniques
 - Implemented loss functions
 - Implemented gradient descent optimizations (Momentum, adagrad, adadelta & adam)
