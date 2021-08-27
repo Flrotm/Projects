@@ -1,1 +1,1 @@
-# a
+# Multilayer perceptron implementation (C++)
