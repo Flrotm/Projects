@@ -36,7 +36,7 @@ In this image we colored the dirent clusters in an MRI
 # [4: Multilayer perceptron implementation (C++)](https://github.com/Flrotm/Projects/edit/master/AI/py4)
 - Implemented a multilayer perception for tumor classification
 - Implemented loss and activation functions
-- Implemented backpropagation algorithm based on Sathyanarayana, S. A gentle introduction to backpropagation. (2014)
+- Implemented backpropagation algorithm based on (Sathyanarayana, S. A gentle introduction to backpropagation. (2014))
 # [5: Face classification using CNNs](https://github.com/Flrotm/Projects/edit/master/AI/py5)
 
 # [6: Autoencoders for noise reduction](https://github.com/Flrotm/Projects/edit/master/AI/py6)
