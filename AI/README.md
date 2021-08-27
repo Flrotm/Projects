@@ -39,9 +39,9 @@ In this image we colored the dirent clusters in an MRI
 - Implemented backpropagation algorithm based on (Sathyanarayana, S. A gentle introduction to backpropagation. (2014))
 # [5: Face classification using CNNs](https://github.com/Flrotm/Projects/edit/master/AI/py5)
 - Built a custom dataloader for the face dataset
-- Tested different models and used transfer learning
+- Tested different models and used transfer learning models for age, sex and expression
 - Implemented custom training and testing functions
-- 
+
 # [6: Autoencoders for noise reduction](https://github.com/Flrotm/Projects/edit/master/AI/py6)
 - Implemented an encoder and a decoder for noise reduction in text images
 - Implemented K-fold cross validation for better accuracy
