@@ -15,6 +15,10 @@ Comparison between the gradient descent optimization techniques
 ![Gradient descent optimization](https://github.com/Flrotm/Projects/blob/master/AI/images/gd.JPG)
 
 # [2: Face emotion classification](https://github.com/Flrotm/Projects/edit/master/AI/py2) 
+- Reduced data dimentionality by calculating feature vectors using PyWavelets
+- Used sklearn to test different models(knn, svm, decision tree)
+- Estimated the errors comparing k-fold and bootstrap validation
+- Calculated the loss variances 
 
 # [3: Clustering brain images](https://github.com/Flrotm/Projects/edit/master/AI/py3)
 
