@@ -46,5 +46,7 @@ In this image we colored the dirent clusters in an MRI
 - Implemented an encoder and a decoder for noise reduction in text images
 - Implemented K-fold cross validation for better accuracy
 - Implemented mlp and cnn autoencoders with pytorch
+These are the results of the CNN autoencoder after reducing the image to a vector of size 10
 
 
+![](https://github.com/Flrotm/Projects/blob/master/AI/images/as.JPG)
