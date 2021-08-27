@@ -23,8 +23,11 @@ Comparison between the gradient descent optimization techniques
 # [3: Clustering brain images and genes](https://github.com/Flrotm/Projects/edit/master/AI/py3)
 - Implemented clustering algorithms (Gaussian Mixture Model, K-means, DBSCAN & Agglomerative Hierarchical Clustering)
 - Reduced the diemnsionality of the data using PCA in the gene tissue case
+
 In this graph we can see how are 2 clusters represented afer the PCA
+
 <br />
+
 ![](https://github.com/Flrotm/Projects/blob/master/AI/images/pca.JPG)
 
 In this image we colored the dirent clusters in an MRI
