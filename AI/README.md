@@ -49,4 +49,4 @@ In this image we colored the dirent clusters in an MRI
 These are the results of the CNN autoencoder after reducing the image to a vector of size 10
 
 
-![](https://github.com/Flrotm/Projects/blob/master/AI/images/as.JPG)
+![](https://github.com/Flrotm/Projects/blob/master/AI/images/asdad.JPG)
